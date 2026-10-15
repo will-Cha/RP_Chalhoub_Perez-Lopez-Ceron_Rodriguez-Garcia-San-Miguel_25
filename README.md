@@ -48,8 +48,8 @@ download: the single file `game.py` is the whole game.
 Clone the repository and switch to the `Game` branch:
 
 ```bash
-git clone https://github.com/<user>/RP_Surname1_Surname2_Surname3_25.git
-cd RP_Surname1_Surname2_Surname3_25
+git clone https://github.com/will-Cha/RP_Chalhoub_Perez-Lopez-Ceron_Rodriguez-Garcia-San-Miguel_25.git
+cd RP_Chalhoub_Perez-Lopez-Ceron_Rodriguez-Garcia-San-Miguel_25
 git checkout Game
 ```
 
@@ -109,7 +109,7 @@ Everything lives in `game.py`, in four parts:
 ## Repository structure
 
 ```
-RP_Surname1_Surname2_Surname3_25
+RP_Chalhoub_Perez-Lopez-Ceron_Rodriguez-Garcia-San-Miguel_25
 ├── main      the default branch
 ├── Game      this branch: game.py and this README
 └── ROS       for the ROS part of the course
@@ -120,8 +120,8 @@ RP_Surname1_Surname2_Surname3_25
 Group project for the Robot Programming course, UC3M.
 Professor: Sofía Die-Pancorbo.
 
-- Surname1, Name1
-- Surname2, Name2
-- Surname3, Name3
+- Chalhoub, William
+- Pérez-López Cerón, Pablo
+- Rodríguez-García San Miguel, Jorge
 
 [pygame]: https://www.pygame.org/
